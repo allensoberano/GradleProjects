@@ -19,4 +19,6 @@ solution file into this one.
 
 */
 
+apply plugin: 'java'
+
 //apply from: "solution.gradle"
